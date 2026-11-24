@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0029",
+  "invoice_number": "005021",
+  "invoice_date": "2024-08-29",
+  "due_date": "2024-10-13",
+  "vendor_name": "Knappe",
+  "vendor_address": "Lehmannstr. 28-23, 10435 Havelberg",
+  "customer_name": "Dörr KG",
+  "customer_address": "Christl-Steinberg-Gasse 152, 31189 Wurzen",
+  "currency": "EUR",
+  "subtotal": 652.08,
+  "tax_rate": 0.07,
+  "tax_amount": 45.65,
+  "shipping": 0.0,
+  "total": 697.73,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 35.71,
+      "amount": 35.71
+    },
+    {
+      "line_no": 2,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 616.37,
+      "amount": 616.37
+    }
+  ]
+}

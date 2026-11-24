@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0186",
+  "invoice_number": "A88220/2025",
+  "invoice_date": "2025-11-05",
+  "due_date": "2025-12-20",
+  "vendor_name": "Oliver, Phillips and Dixon",
+  "vendor_address": "526 Stewart Cliffs, Joebury, DA4B 4ES",
+  "customer_name": "Jessica Walters",
+  "customer_address": "218 Joan Corner, West Dennischester, S5T 6HP",
+  "currency": "GBP",
+  "subtotal": 64813.53,
+  "tax_rate": 0.2,
+  "tax_amount": 12962.71,
+  "shipping": 0.0,
+  "total": 77776.24,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Printer toner",
+      "quantity": 12.0,
+      "unit_price": 58.03,
+      "amount": 696.36
+    },
+    {
+      "line_no": 2,
+      "description": "Data migration",
+      "quantity": 12.0,
+      "unit_price": 2300.74,
+      "amount": 27608.88
+    },
+    {
+      "line_no": 3,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 139.22,
+      "amount": 139.22
+    },
+    {
+      "line_no": 4,
+      "description": "Consulting services",
+      "quantity": 12.0,
+      "unit_price": 247.77,
+      "amount": 2973.24
+    },
+    {
+      "line_no": 5,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 1888.84,
+      "amount": 1888.84
+    },
+    {
+      "line_no": 6,
+      "description": "Laptop stand",
+      "quantity": 3.0,
+      "unit_price": 54.47,
+      "amount": 163.41
+    },
+    {
+      "line_no": 7,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 788.08,
+      "amount": 788.08
+    },
+    {
+      "line_no": 8,
+      "description": "Security audit",
+      "quantity": 25.0,
+      "unit_price": 1222.22,
+      "amount": 30555.5
+    }
+  ]
+}

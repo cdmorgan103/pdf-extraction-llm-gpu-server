@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0072",
+  "invoice_number": "INV-2024-89283",
+  "invoice_date": "2024-02-03",
+  "due_date": "2024-03-19",
+  "vendor_name": "Anderson, Stanley and Walker",
+  "vendor_address": "9884 Tyler Summit Suite 207, Silvamouth, KS 32775",
+  "customer_name": "Thomas Group",
+  "customer_address": "95864 King Vista Suite 115, Pearsonshire, SC 42807",
+  "currency": "USD",
+  "subtotal": 65.62,
+  "tax_rate": 0.0825,
+  "tax_amount": 5.41,
+  "shipping": 0.0,
+  "total": 71.03,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Laptop stand",
+      "quantity": 2.0,
+      "unit_price": 32.81,
+      "amount": 65.62
+    }
+  ]
+}

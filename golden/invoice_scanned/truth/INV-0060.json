@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0060",
+  "invoice_number": "A96068/2024",
+  "invoice_date": "2024-07-27",
+  "due_date": "2024-08-11",
+  "vendor_name": "Russo Group",
+  "vendor_address": "0328 Adriana Valleys Apt. 927, Lake Alecburgh, CT 51683",
+  "customer_name": "Mark Klein",
+  "customer_address": "12491 Johnson Forge, Tuckerhaven, LA 51895",
+  "currency": "USD",
+  "subtotal": 2807.01,
+  "tax_rate": 0.0625,
+  "tax_amount": 175.44,
+  "shipping": 0.0,
+  "total": 2982.45,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Consulting services",
+      "quantity": 2.0,
+      "unit_price": 94.66,
+      "amount": 189.32
+    },
+    {
+      "line_no": 2,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 149.15,
+      "amount": 1491.5
+    },
+    {
+      "line_no": 3,
+      "description": "Ergonomic mouse",
+      "quantity": 1.0,
+      "unit_price": 38.2,
+      "amount": 38.2
+    },
+    {
+      "line_no": 4,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 31.94,
+      "amount": 31.94
+    },
+    {
+      "line_no": 5,
+      "description": "Project management",
+      "quantity": 1.0,
+      "unit_price": 161.19,
+      "amount": 161.19
+    },
+    {
+      "line_no": 6,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 522.31,
+      "amount": 522.31
+    },
+    {
+      "line_no": 7,
+      "description": "Shipping crate",
+      "quantity": 5.0,
+      "unit_price": 59.0,
+      "amount": 295.0
+    },
+    {
+      "line_no": 8,
+      "description": "Laptop stand",
+      "quantity": 3.0,
+      "unit_price": 25.85,
+      "amount": 77.55
+    }
+  ]
+}

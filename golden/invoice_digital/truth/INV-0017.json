@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0017",
+  "invoice_number": "A24728/2025",
+  "invoice_date": "2025-11-06",
+  "due_date": "2025-12-21",
+  "vendor_name": "auch Schlauchin Sauer GmbH",
+  "vendor_address": "Mühlestraße 840, 75411 Säckingen",
+  "customer_name": "Univ.Prof. Dorota Stiffel",
+  "customer_address": "Junkenstr. 1935, 49121 Neustrelitz",
+  "currency": "EUR",
+  "subtotal": 15634.17,
+  "tax_rate": 0.07,
+  "tax_amount": 1094.39,
+  "shipping": 0.0,
+  "total": 16728.56,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 12.0,
+      "unit_price": 101.41,
+      "amount": 1216.92
+    },
+    {
+      "line_no": 2,
+      "description": "Monitor 27in",
+      "quantity": 25.0,
+      "unit_price": 576.69,
+      "amount": 14417.25
+    }
+  ]
+}

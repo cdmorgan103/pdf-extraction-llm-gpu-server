@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0192",
+  "invoice_number": "A43715/2025",
+  "invoice_date": "2025-09-10",
+  "due_date": "2025-09-25",
+  "vendor_name": "Ahmed-Chambers",
+  "vendor_address": "60 Adams Pines, South Timothy, CO6H 1UH",
+  "customer_name": "Jones, Allen and Clements",
+  "customer_address": "4 Jayne Track, Hallchester, LN8 8TY",
+  "currency": "GBP",
+  "subtotal": 11958.5,
+  "tax_rate": 0.2,
+  "tax_amount": 2391.7,
+  "shipping": 0.0,
+  "total": 14350.2,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Ergonomic mouse",
+      "quantity": 25.0,
+      "unit_price": 23.25,
+      "amount": 581.25
+    },
+    {
+      "line_no": 2,
+      "description": "Network switch 24-port",
+      "quantity": 25.0,
+      "unit_price": 455.09,
+      "amount": 11377.25
+    }
+  ]
+}

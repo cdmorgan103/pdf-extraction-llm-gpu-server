@@ -1,0 +1,228 @@
+{
+  "invoice_id": "INV-0115",
+  "invoice_number": "INV-2024-24885",
+  "invoice_date": "2024-05-14",
+  "due_date": "2024-05-29",
+  "vendor_name": "Lowe-Taylor",
+  "vendor_address": "Studio 44c, Glenn Forks, New Wendy, HA8 3XA",
+  "customer_name": "Rose Inc",
+  "customer_address": "41 Williams Stravenue, South Melanie, W0D 9TE",
+  "currency": "GBP",
+  "subtotal": 59214.14,
+  "tax_rate": 0.2,
+  "tax_amount": 11842.83,
+  "shipping": 0.0,
+  "total": 71056.97,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 7.5,
+      "unit_price": 78.23,
+      "amount": 586.73
+    },
+    {
+      "line_no": 2,
+      "description": "Ergonomic mouse",
+      "quantity": 2.0,
+      "unit_price": 23.01,
+      "amount": 46.02
+    },
+    {
+      "line_no": 3,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 193.62,
+      "amount": 193.62
+    },
+    {
+      "line_no": 4,
+      "description": "Data migration",
+      "quantity": 3.0,
+      "unit_price": 3225.22,
+      "amount": 9675.66
+    },
+    {
+      "line_no": 5,
+      "description": "Project management",
+      "quantity": 2.0,
+      "unit_price": 147.53,
+      "amount": 295.06
+    },
+    {
+      "line_no": 6,
+      "description": "Project management",
+      "quantity": 2.0,
+      "unit_price": 159.36,
+      "amount": 318.72
+    },
+    {
+      "line_no": 7,
+      "description": "Copy paper (box)",
+      "quantity": 5.0,
+      "unit_price": 23.18,
+      "amount": 115.9
+    },
+    {
+      "line_no": 8,
+      "description": "Shipping crate",
+      "quantity": 12.0,
+      "unit_price": 33.72,
+      "amount": 404.64
+    },
+    {
+      "line_no": 9,
+      "description": "Network switch 24-port",
+      "quantity": 12.0,
+      "unit_price": 684.01,
+      "amount": 8208.12
+    },
+    {
+      "line_no": 10,
+      "description": "Training workshop",
+      "quantity": 5.0,
+      "unit_price": 796.74,
+      "amount": 3983.7
+    },
+    {
+      "line_no": 11,
+      "description": "Wireless keyboard",
+      "quantity": 10.0,
+      "unit_price": 69.14,
+      "amount": 691.4
+    },
+    {
+      "line_no": 12,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 36.38,
+      "amount": 36.38
+    },
+    {
+      "line_no": 13,
+      "description": "Consulting services",
+      "quantity": 2.0,
+      "unit_price": 85.48,
+      "amount": 170.96
+    },
+    {
+      "line_no": 14,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 65.68,
+      "amount": 65.68
+    },
+    {
+      "line_no": 15,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 203.5,
+      "amount": 2035.0
+    },
+    {
+      "line_no": 16,
+      "description": "USB-C docking station",
+      "quantity": 2.0,
+      "unit_price": 246.71,
+      "amount": 493.42
+    },
+    {
+      "line_no": 17,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 192.29,
+      "amount": 192.29
+    },
+    {
+      "line_no": 18,
+      "description": "Ergonomic mouse",
+      "quantity": 12.0,
+      "unit_price": 80.03,
+      "amount": 960.36
+    },
+    {
+      "line_no": 19,
+      "description": "Cloud hosting - monthly",
+      "quantity": 12.0,
+      "unit_price": 631.56,
+      "amount": 7578.72
+    },
+    {
+      "line_no": 20,
+      "description": "Laptop stand",
+      "quantity": 12.0,
+      "unit_price": 72.69,
+      "amount": 872.28
+    },
+    {
+      "line_no": 21,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 296.48,
+      "amount": 2964.8
+    },
+    {
+      "line_no": 22,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 213.74,
+      "amount": 213.74
+    },
+    {
+      "line_no": 23,
+      "description": "Technical support hours",
+      "quantity": 12.0,
+      "unit_price": 146.42,
+      "amount": 1757.04
+    },
+    {
+      "line_no": 24,
+      "description": "Consulting services",
+      "quantity": 10.0,
+      "unit_price": 183.96,
+      "amount": 1839.6
+    },
+    {
+      "line_no": 25,
+      "description": "Printer toner",
+      "quantity": 25.0,
+      "unit_price": 93.03,
+      "amount": 2325.75
+    },
+    {
+      "line_no": 26,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 450.74,
+      "amount": 450.74
+    },
+    {
+      "line_no": 27,
+      "description": "Printer toner",
+      "quantity": 12.0,
+      "unit_price": 84.83,
+      "amount": 1017.96
+    },
+    {
+      "line_no": 28,
+      "description": "Copy paper (box)",
+      "quantity": 1.0,
+      "unit_price": 55.11,
+      "amount": 55.11
+    },
+    {
+      "line_no": 29,
+      "description": "Software license (annual)",
+      "quantity": 2.0,
+      "unit_price": 1393.02,
+      "amount": 2786.04
+    },
+    {
+      "line_no": 30,
+      "description": "Network switch 24-port",
+      "quantity": 10.0,
+      "unit_price": 887.87,
+      "amount": 8878.7
+    }
+  ]
+}

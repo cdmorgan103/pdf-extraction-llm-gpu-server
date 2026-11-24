@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0169",
+  "invoice_number": "030705",
+  "invoice_date": "2024-06-26",
+  "due_date": "2024-08-10",
+  "vendor_name": "Gray, Cox and Singleton",
+  "vendor_address": "3433 Jason Summit, Jasonberg, CT 60962",
+  "customer_name": "Lonnie Carter",
+  "customer_address": "46111 Alexandra Villages, Anthonybury, WV 90007",
+  "currency": "USD",
+  "subtotal": 10990.79,
+  "tax_rate": 0.07,
+  "tax_amount": 769.36,
+  "shipping": 0.0,
+  "total": 11760.15,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Website maintenance",
+      "quantity": 1.0,
+      "unit_price": 488.29,
+      "amount": 488.29
+    },
+    {
+      "line_no": 2,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 512.01,
+      "amount": 5120.1
+    },
+    {
+      "line_no": 3,
+      "description": "Monitor 27in",
+      "quantity": 5.0,
+      "unit_price": 381.11,
+      "amount": 1905.55
+    },
+    {
+      "line_no": 4,
+      "description": "Office chair",
+      "quantity": 1.0,
+      "unit_price": 153.63,
+      "amount": 153.63
+    },
+    {
+      "line_no": 5,
+      "description": "Wireless keyboard",
+      "quantity": 5.0,
+      "unit_price": 113.62,
+      "amount": 568.1
+    },
+    {
+      "line_no": 6,
+      "description": "Ergonomic mouse",
+      "quantity": 12.0,
+      "unit_price": 15.7,
+      "amount": 188.4
+    },
+    {
+      "line_no": 7,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 1944.37,
+      "amount": 1944.37
+    },
+    {
+      "line_no": 8,
+      "description": "Technical support hours",
+      "quantity": 7.5,
+      "unit_price": 82.98,
+      "amount": 622.35
+    }
+  ]
+}

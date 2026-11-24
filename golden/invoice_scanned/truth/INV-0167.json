@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0167",
+  "invoice_number": "002441",
+  "invoice_date": "2025-05-31",
+  "due_date": "2025-07-15",
+  "vendor_name": "Walker-Davies",
+  "vendor_address": "353 Stevens Extensions, South Tina, B68 1FP",
+  "customer_name": "Steele and Sons",
+  "customer_address": "79 Vanessa Parks, Lake Abbieburgh, M6W 9ZF",
+  "currency": "GBP",
+  "subtotal": 441.8,
+  "tax_rate": 0.2,
+  "tax_amount": 88.36,
+  "shipping": 0.0,
+  "total": 530.16,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Ergonomic mouse",
+      "quantity": 5.0,
+      "unit_price": 49.86,
+      "amount": 249.3
+    },
+    {
+      "line_no": 2,
+      "description": "Laptop stand",
+      "quantity": 10.0,
+      "unit_price": 19.25,
+      "amount": 192.5
+    }
+  ]
+}

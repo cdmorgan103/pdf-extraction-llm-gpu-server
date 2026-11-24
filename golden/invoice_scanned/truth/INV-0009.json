@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0009",
+  "invoice_number": "INV-2024-50489",
+  "invoice_date": "2024-04-28",
+  "due_date": "2024-05-28",
+  "vendor_name": "Henry Group",
+  "vendor_address": "Studio 0, Edwards Light, New Jamesville, NR4M 0HG",
+  "customer_name": "Miss Kayleigh Bowen",
+  "customer_address": "Studio 1, Nicola Rue, East Mohamedburgh, EH88 2WN",
+  "currency": "GBP",
+  "subtotal": 34221.23,
+  "tax_rate": 0.2,
+  "tax_amount": 6844.25,
+  "shipping": 0.0,
+  "total": 41065.48,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Ergonomic mouse",
+      "quantity": 1.0,
+      "unit_price": 23.13,
+      "amount": 23.13
+    },
+    {
+      "line_no": 2,
+      "description": "Security audit",
+      "quantity": 10.0,
+      "unit_price": 3419.81,
+      "amount": 34198.1
+    }
+  ]
+}

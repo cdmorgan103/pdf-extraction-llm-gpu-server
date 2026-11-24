@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0183",
+  "invoice_number": "202499658",
+  "invoice_date": "2024-06-26",
+  "due_date": "2024-08-25",
+  "vendor_name": "Moore-Wade",
+  "vendor_address": "239 Lee Plaza Apt. 065, New Andrew, PR 24686",
+  "customer_name": "Wolf Group",
+  "customer_address": "0820 Martinez Club Apt. 754, Chavezbury, IL 11717",
+  "currency": "USD",
+  "subtotal": 20171.42,
+  "tax_rate": 0.0825,
+  "tax_amount": 1664.14,
+  "shipping": 0.0,
+  "total": 21835.56,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Copy paper (box)",
+      "quantity": 2.0,
+      "unit_price": 29.8,
+      "amount": 59.6
+    },
+    {
+      "line_no": 2,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 64.38,
+      "amount": 64.38
+    },
+    {
+      "line_no": 3,
+      "description": "Data migration",
+      "quantity": 3.0,
+      "unit_price": 1784.09,
+      "amount": 5352.27
+    },
+    {
+      "line_no": 4,
+      "description": "Office chair",
+      "quantity": 12.0,
+      "unit_price": 583.54,
+      "amount": 7002.48
+    },
+    {
+      "line_no": 5,
+      "description": "Network switch 24-port",
+      "quantity": 2.0,
+      "unit_price": 353.9,
+      "amount": 707.8
+    },
+    {
+      "line_no": 6,
+      "description": "Training workshop",
+      "quantity": 12.0,
+      "unit_price": 516.04,
+      "amount": 6192.48
+    },
+    {
+      "line_no": 7,
+      "description": "Project management",
+      "quantity": 5.0,
+      "unit_price": 121.77,
+      "amount": 608.85
+    },
+    {
+      "line_no": 8,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 183.56,
+      "amount": 183.56
+    }
+  ]
+}

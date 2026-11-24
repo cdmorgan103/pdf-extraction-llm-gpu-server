@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-0087",
+  "invoice_number": "INV-2025-39937",
+  "invoice_date": "2025-11-07",
+  "due_date": "2025-11-21",
+  "vendor_name": "Harding Inc",
+  "vendor_address": "490 Lees Vista, Doylestad, W78 4DW",
+  "customer_name": "Smith-Haynes",
+  "customer_address": "8 Dunn Ranch, Lake Abdul, L0C 9QH",
+  "currency": "GBP",
+  "subtotal": 8852.3,
+  "tax_rate": 0.2,
+  "tax_amount": 1770.46,
+  "shipping": 0.0,
+  "total": 10622.76,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "USB-C docking station",
+      "quantity": 3.0,
+      "unit_price": 291.23,
+      "amount": 873.69
+    },
+    {
+      "line_no": 2,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 334.99,
+      "amount": 334.99
+    },
+    {
+      "line_no": 3,
+      "description": "Monitor 27in",
+      "quantity": 5.0,
+      "unit_price": 677.84,
+      "amount": 3389.2
+    },
+    {
+      "line_no": 4,
+      "description": "Technical support hours",
+      "quantity": 1.5,
+      "unit_price": 126.42,
+      "amount": 189.63
+    },
+    {
+      "line_no": 5,
+      "description": "Office chair",
+      "quantity": 25.0,
+      "unit_price": 162.1,
+      "amount": 4052.5
+    },
+    {
+      "line_no": 6,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 12.29,
+      "amount": 12.29
+    }
+  ]
+}

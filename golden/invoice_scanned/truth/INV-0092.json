@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0092",
+  "invoice_number": "081686",
+  "invoice_date": "2025-11-08",
+  "due_date": "2025-12-08",
+  "vendor_name": "Hornich",
+  "vendor_address": "Jockelplatz 8-9, 72337 Ludwigsburg",
+  "customer_name": "Hörle",
+  "customer_address": "Steinbergstr. 7/2, 94494 Mühldorf am Inn",
+  "currency": "EUR",
+  "subtotal": 1001.56,
+  "tax_rate": 0.07,
+  "tax_amount": 70.11,
+  "shipping": 0.0,
+  "total": 1071.67,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Copy paper (box)",
+      "quantity": 12.0,
+      "unit_price": 54.69,
+      "amount": 656.28
+    },
+    {
+      "line_no": 2,
+      "description": "Technical support hours",
+      "quantity": 4.0,
+      "unit_price": 86.32,
+      "amount": 345.28
+    }
+  ]
+}

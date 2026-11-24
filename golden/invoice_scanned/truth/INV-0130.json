@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-0130",
+  "invoice_number": "079994",
+  "invoice_date": "2025-03-13",
+  "due_date": "2025-04-12",
+  "vendor_name": "Godfrey-Ford",
+  "vendor_address": "Studio 5, Woods Lakes, Evanschester, WD5W 8NT",
+  "customer_name": "Turner, Parry and Nolan",
+  "customer_address": "Studio 71O, Young Knoll, Lake Michelleport, M79 4LX",
+  "currency": "GBP",
+  "subtotal": 1022.23,
+  "tax_rate": 0.2,
+  "tax_amount": 204.45,
+  "shipping": 12.98,
+  "total": 1239.66,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 164.22,
+      "amount": 164.22
+    },
+    {
+      "line_no": 2,
+      "description": "Wireless keyboard",
+      "quantity": 5.0,
+      "unit_price": 119.6,
+      "amount": 598.0
+    },
+    {
+      "line_no": 3,
+      "description": "Ergonomic mouse",
+      "quantity": 3.0,
+      "unit_price": 86.67,
+      "amount": 260.01
+    }
+  ]
+}

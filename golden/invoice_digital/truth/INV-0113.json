@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0113",
+  "invoice_number": "A14142/2025",
+  "invoice_date": "2025-09-24",
+  "due_date": "2025-10-24",
+  "vendor_name": "King, Sanders and Flynn",
+  "vendor_address": "Studio 9, Raymond Mountains, Lake Gavinfort, WF0M 7SX",
+  "customer_name": "Patel-Knight",
+  "customer_address": "3 Gerard Creek, Armstronghaven, WA2V 3EF",
+  "currency": "GBP",
+  "subtotal": 479.81,
+  "tax_rate": 0.2,
+  "tax_amount": 95.96,
+  "shipping": 0.0,
+  "total": 575.77,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Training workshop",
+      "quantity": 1.0,
+      "unit_price": 479.81,
+      "amount": 479.81
+    }
+  ]
+}

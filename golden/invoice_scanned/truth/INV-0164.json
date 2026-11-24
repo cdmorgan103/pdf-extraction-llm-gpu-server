@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-0164",
+  "invoice_number": "A5280/2025",
+  "invoice_date": "2025-06-25",
+  "due_date": "2025-07-09",
+  "vendor_name": "Barkholz",
+  "vendor_address": "Annedore-Seifert-Platz 7, 06058 Wismar",
+  "customer_name": "Paffrath",
+  "customer_address": "Linkegasse 414, 29717 Bad Liebenwerda",
+  "currency": "EUR",
+  "subtotal": 4820.22,
+  "tax_rate": 0.07,
+  "tax_amount": 337.42,
+  "shipping": 47.5,
+  "total": 5205.14,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Training workshop",
+      "quantity": 1.0,
+      "unit_price": 2848.99,
+      "amount": 2848.99
+    },
+    {
+      "line_no": 2,
+      "description": "USB-C docking station",
+      "quantity": 5.0,
+      "unit_price": 282.77,
+      "amount": 1413.85
+    },
+    {
+      "line_no": 3,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 557.38,
+      "amount": 557.38
+    }
+  ]
+}

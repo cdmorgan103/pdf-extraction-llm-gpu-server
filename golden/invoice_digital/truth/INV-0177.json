@@ -1,0 +1,102 @@
+{
+  "invoice_id": "INV-0177",
+  "invoice_number": "202436103",
+  "invoice_date": "2024-04-21",
+  "due_date": "2024-05-21",
+  "vendor_name": "Williams-Thompson",
+  "vendor_address": "7271 Blanchard Trail Suite 573, East James, ID 73219",
+  "customer_name": "Wright, Richardson and Myers",
+  "customer_address": "USCGC Reed, FPO AE 23356",
+  "currency": "USD",
+  "subtotal": 17963.05,
+  "tax_rate": 0.07,
+  "tax_amount": 1257.41,
+  "shipping": 0.0,
+  "total": 19220.46,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 12.0,
+      "unit_price": 94.06,
+      "amount": 1128.72
+    },
+    {
+      "line_no": 2,
+      "description": "Project management",
+      "quantity": 2.0,
+      "unit_price": 107.84,
+      "amount": 215.68
+    },
+    {
+      "line_no": 3,
+      "description": "Office chair",
+      "quantity": 25.0,
+      "unit_price": 125.69,
+      "amount": 3142.25
+    },
+    {
+      "line_no": 4,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 161.1,
+      "amount": 161.1
+    },
+    {
+      "line_no": 5,
+      "description": "Printer toner",
+      "quantity": 1.0,
+      "unit_price": 50.62,
+      "amount": 50.62
+    },
+    {
+      "line_no": 6,
+      "description": "Website maintenance",
+      "quantity": 10.0,
+      "unit_price": 530.22,
+      "amount": 5302.2
+    },
+    {
+      "line_no": 7,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 151.06,
+      "amount": 151.06
+    },
+    {
+      "line_no": 8,
+      "description": "Website maintenance",
+      "quantity": 10.0,
+      "unit_price": 626.08,
+      "amount": 6260.8
+    },
+    {
+      "line_no": 9,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 1094.68,
+      "amount": 1094.68
+    },
+    {
+      "line_no": 10,
+      "description": "Ergonomic mouse",
+      "quantity": 2.0,
+      "unit_price": 24.74,
+      "amount": 49.48
+    },
+    {
+      "line_no": 11,
+      "description": "Shipping crate",
+      "quantity": 2.0,
+      "unit_price": 45.13,
+      "amount": 90.26
+    },
+    {
+      "line_no": 12,
+      "description": "Copy paper (box)",
+      "quantity": 12.0,
+      "unit_price": 26.35,
+      "amount": 316.2
+    }
+  ]
+}

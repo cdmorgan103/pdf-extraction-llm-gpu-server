@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0007",
+  "invoice_number": "034665",
+  "invoice_date": "2025-10-31",
+  "due_date": "2025-12-30",
+  "vendor_name": "Mies Tröst GmbH & Co. OHG",
+  "vendor_address": "Zirmestraße 84-26, 28095 Wertingen",
+  "customer_name": "Kade",
+  "customer_address": "Luzie-Spieß-Gasse 37, 14967 Passau",
+  "currency": "EUR",
+  "subtotal": 256.68,
+  "tax_rate": 0.19,
+  "tax_amount": 48.77,
+  "shipping": 0.0,
+  "total": 305.45,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Shipping crate",
+      "quantity": 3.0,
+      "unit_price": 85.56,
+      "amount": 256.68
+    }
+  ]
+}

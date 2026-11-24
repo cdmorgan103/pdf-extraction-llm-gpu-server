@@ -1,0 +1,25 @@
+# Exact versions this project was built and tested with (pip install -r requirements.txt).
+# Pinned so a new machine (e.g. the GPU server) gets identical behaviour.
+
+# PDF generation and reading
+reportlab==5.1.0
+Faker==40.63.0
+pymupdf==2.1
+pillow==13.0.0
+numpy==2.4.6
+pandas==3.1.1
+
+# Extraction
+pydantic==2.14.4
+requests==2.34.2
+rapidocr-onnxruntime==1.4.4
+onnxruntime==1.32.0
+
+# Database and dashboard
+SQLAlchemy==2.1.9
+pyodbc==5.5.0
+plotly==7.1.0
+
+# Also needed outside Python:
+#   Ollama with models qwen2.5:7b and qwen2.5vl:7b
+#   Microsoft ODBC Driver 18 for SQL Server (for the database)

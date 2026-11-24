@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-0138",
+  "invoice_number": "065055",
+  "invoice_date": "2025-01-16",
+  "due_date": "2025-02-15",
+  "vendor_name": "Wilson LLC",
+  "vendor_address": "USNV Smith, FPO AE 23067",
+  "customer_name": "Wallace Ltd",
+  "customer_address": "473 Nancy Springs Apt. 278, Morganview, MS 24735",
+  "currency": "USD",
+  "subtotal": 74190.02,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping": 36.73,
+  "total": 74226.75,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Website maintenance",
+      "quantity": 25.0,
+      "unit_price": 1089.4,
+      "amount": 27235.0
+    },
+    {
+      "line_no": 2,
+      "description": "Data migration",
+      "quantity": 12.0,
+      "unit_price": 3294.28,
+      "amount": 39531.36
+    },
+    {
+      "line_no": 3,
+      "description": "Copy paper (box)",
+      "quantity": 1.0,
+      "unit_price": 27.53,
+      "amount": 27.53
+    },
+    {
+      "line_no": 4,
+      "description": "Network switch 24-port",
+      "quantity": 12.0,
+      "unit_price": 215.48,
+      "amount": 2585.76
+    },
+    {
+      "line_no": 5,
+      "description": "USB-C docking station",
+      "quantity": 10.0,
+      "unit_price": 277.55,
+      "amount": 2775.5
+    },
+    {
+      "line_no": 6,
+      "description": "Monitor 27in",
+      "quantity": 3.0,
+      "unit_price": 678.29,
+      "amount": 2034.87
+    }
+  ]
+}

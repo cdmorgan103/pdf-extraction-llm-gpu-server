@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0008",
+  "invoice_number": "202587807",
+  "invoice_date": "2025-01-13",
+  "due_date": "2025-03-14",
+  "vendor_name": "Dörr",
+  "vendor_address": "Junkstraße 636, 79645 Lichtenfels",
+  "customer_name": "Torsten Haering B.A.",
+  "customer_address": "Spießgasse 5-1, 76557 Greiz",
+  "currency": "EUR",
+  "subtotal": 24492.33,
+  "tax_rate": 0.07,
+  "tax_amount": 1714.46,
+  "shipping": 0.0,
+  "total": 26206.79,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Training workshop",
+      "quantity": 2.0,
+      "unit_price": 2141.58,
+      "amount": 4283.16
+    },
+    {
+      "line_no": 2,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 415.26,
+      "amount": 415.26
+    },
+    {
+      "line_no": 3,
+      "description": "Technical support hours",
+      "quantity": 20.0,
+      "unit_price": 166.1,
+      "amount": 3322.0
+    },
+    {
+      "line_no": 4,
+      "description": "Cloud hosting - monthly",
+      "quantity": 10.0,
+      "unit_price": 877.5,
+      "amount": 8775.0
+    },
+    {
+      "line_no": 5,
+      "description": "Project management",
+      "quantity": 1.0,
+      "unit_price": 190.35,
+      "amount": 190.35
+    },
+    {
+      "line_no": 6,
+      "description": "Laptop stand",
+      "quantity": 2.0,
+      "unit_price": 71.2,
+      "amount": 142.4
+    },
+    {
+      "line_no": 7,
+      "description": "Security audit",
+      "quantity": 1.0,
+      "unit_price": 7169.91,
+      "amount": 7169.91
+    },
+    {
+      "line_no": 8,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 194.25,
+      "amount": 194.25
+    }
+  ]
+}

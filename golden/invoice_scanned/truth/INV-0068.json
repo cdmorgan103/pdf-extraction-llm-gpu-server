@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0068",
+  "invoice_number": "202485674",
+  "invoice_date": "2024-03-16",
+  "due_date": "2024-04-15",
+  "vendor_name": "Hill Inc",
+  "vendor_address": "61 Ronald Parkway, South Alan, ZE4W 5QB",
+  "customer_name": "Davies-Lambert",
+  "customer_address": "Studio 34, Johnson Lane, Lake Robin, IV14 3PT",
+  "currency": "GBP",
+  "subtotal": 229.05,
+  "tax_rate": 0.2,
+  "tax_amount": 45.81,
+  "shipping": 0.0,
+  "total": 274.86,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 74.7,
+      "amount": 74.7
+    },
+    {
+      "line_no": 2,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 154.35,
+      "amount": 154.35
+    }
+  ]
+}

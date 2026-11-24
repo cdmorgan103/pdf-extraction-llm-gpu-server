@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-0151",
+  "invoice_number": "INV-2024-70112",
+  "invoice_date": "2024-10-11",
+  "due_date": "2024-10-26",
+  "vendor_name": "Heinrich Gute AG",
+  "vendor_address": "Alfonso-Buchholz-Straße 9/5, 47799 Kitzingen",
+  "customer_name": "Pierre Rust",
+  "customer_address": "Gierschnerplatz 36, 70320 Wurzen",
+  "currency": "EUR",
+  "subtotal": 9643.99,
+  "tax_rate": 0.07,
+  "tax_amount": 675.08,
+  "shipping": 0.0,
+  "total": 10319.07,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 265.12,
+      "amount": 265.12
+    },
+    {
+      "line_no": 2,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 59.89,
+      "amount": 59.89
+    },
+    {
+      "line_no": 3,
+      "description": "Project management",
+      "quantity": 2.0,
+      "unit_price": 102.89,
+      "amount": 205.78
+    },
+    {
+      "line_no": 4,
+      "description": "Software license (annual)",
+      "quantity": 10.0,
+      "unit_price": 911.32,
+      "amount": 9113.2
+    }
+  ]
+}

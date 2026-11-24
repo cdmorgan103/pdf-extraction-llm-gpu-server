@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-0145",
+  "invoice_number": "008482",
+  "invoice_date": "2025-02-21",
+  "due_date": "2025-03-23",
+  "vendor_name": "Hill, Welch and Blake",
+  "vendor_address": "03670 Reyes Junction Suite 830, Kelseyhaven, OR 19890",
+  "customer_name": "Jensen, Watkins and Hale",
+  "customer_address": "798 Davis Ridges, East Hectorhaven, LA 60155",
+  "currency": "USD",
+  "subtotal": 13234.12,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping": 0.0,
+  "total": 13234.12,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Data migration",
+      "quantity": 1.0,
+      "unit_price": 4994.25,
+      "amount": 4994.25
+    },
+    {
+      "line_no": 2,
+      "description": "Wireless keyboard",
+      "quantity": 12.0,
+      "unit_price": 87.21,
+      "amount": 1046.52
+    },
+    {
+      "line_no": 3,
+      "description": "USB-C docking station",
+      "quantity": 10.0,
+      "unit_price": 176.37,
+      "amount": 1763.7
+    },
+    {
+      "line_no": 4,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 22.75,
+      "amount": 22.75
+    },
+    {
+      "line_no": 5,
+      "description": "Website maintenance",
+      "quantity": 10.0,
+      "unit_price": 540.69,
+      "amount": 5406.9
+    }
+  ]
+}

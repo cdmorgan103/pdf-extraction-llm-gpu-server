@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0088",
+  "invoice_number": "A90893/2025",
+  "invoice_date": "2025-11-02",
+  "due_date": "2025-11-17",
+  "vendor_name": "Velez Ltd",
+  "vendor_address": "236 Michelle Road, Lake Joseph, SD 59668",
+  "customer_name": "Delacruz Ltd",
+  "customer_address": "027 Bryan Key Apt. 762, Dianafort, VT 72825",
+  "currency": "USD",
+  "subtotal": 730.01,
+  "tax_rate": 0.07,
+  "tax_amount": 51.1,
+  "shipping": 0.0,
+  "total": 781.11,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 64.21,
+      "amount": 64.21
+    },
+    {
+      "line_no": 2,
+      "description": "Project management",
+      "quantity": 5.0,
+      "unit_price": 133.16,
+      "amount": 665.8
+    }
+  ]
+}

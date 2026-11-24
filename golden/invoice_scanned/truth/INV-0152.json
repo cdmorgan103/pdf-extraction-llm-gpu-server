@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-0152",
+  "invoice_number": "A75473/2025",
+  "invoice_date": "2025-06-02",
+  "due_date": "2025-06-16",
+  "vendor_name": "Klingelhöfer Segebahn GmbH",
+  "vendor_address": "Klara-Krein-Gasse 209, 34959 Wesel",
+  "customer_name": "Hande Scheel KGaA",
+  "customer_address": "Strohstr. 799, 11386 Jülich",
+  "currency": "EUR",
+  "subtotal": 1556.84,
+  "tax_rate": 0.19,
+  "tax_amount": 295.8,
+  "shipping": 0.0,
+  "total": 1852.64,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Printer toner",
+      "quantity": 12.0,
+      "unit_price": 113.43,
+      "amount": 1361.16
+    },
+    {
+      "line_no": 2,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 49.2,
+      "amount": 49.2
+    },
+    {
+      "line_no": 3,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 65.96,
+      "amount": 65.96
+    },
+    {
+      "line_no": 4,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 80.52,
+      "amount": 80.52
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0027",
+  "invoice_number": "INV-2025-40578",
+  "invoice_date": "2025-11-03",
+  "due_date": "2026-01-02",
+  "vendor_name": "Burton and Sons",
+  "vendor_address": "Studio 63x, Francesca Burgs, Gailbury, CB42 1QS",
+  "customer_name": "Bailey and Sons",
+  "customer_address": "66 Richardson Mill, Billyberg, M5G 4DZ",
+  "currency": "GBP",
+  "subtotal": 4059.11,
+  "tax_rate": 0.2,
+  "tax_amount": 811.82,
+  "shipping": 86.52,
+  "total": 4957.45,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 2308.52,
+      "amount": 2308.52
+    },
+    {
+      "line_no": 2,
+      "description": "Office chair",
+      "quantity": 3.0,
+      "unit_price": 583.53,
+      "amount": 1750.59
+    }
+  ]
+}

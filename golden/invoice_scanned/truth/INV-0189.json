@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0189",
+  "invoice_number": "003019",
+  "invoice_date": "2025-03-31",
+  "due_date": "2025-04-30",
+  "vendor_name": "Geisler",
+  "vendor_address": "Helmut-Lorch-Gasse 21/80, 28147 Sankt Goar",
+  "customer_name": "Lübs",
+  "customer_address": "Siegried-Gumprich-Allee 4/6, 30643 Kötzting",
+  "currency": "EUR",
+  "subtotal": 211.98,
+  "tax_rate": 0.07,
+  "tax_amount": 14.84,
+  "shipping": 0.0,
+  "total": 226.82,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 211.98,
+      "amount": 211.98
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Golden check of this folder, run on the development PC (RTX 3090) on 2026-11-24
+against a separate test database (ocr_server_test), with --set-baseline.
+
+Golden set check
+set                 docs  fully right  reference  result
+invoice_digital       25        84.0%      84.0%  PASS
+invoice_scanned       50        92.0%      90.0%  PASS
+receipt              105        92.4%      92.4%  PASS
+baseline invoice/blocks: 25 documents
+baseline invoice/image: 50 documents
+baseline receipt/image: 105 documents
+
+All extracted values were identical to the development runs except one document:
+INV-0008 (scanned). Its first answer failed an arithmetic check (line 3 amount), and
+the retry corrected it this time (3,322.00 = 20 x 166.10), where in development the
+retry had not improved it. The model is deterministic for a single request
+(temperature 0), but a retry conversation can come out slightly differently on a GPU.
+That is why golden_check.py allows a 3-point tolerance before failing a set.
+
+Expected on the GPU server: the same PASS results. A different GPU model or driver can
+shift individual retry outcomes in the same way, so small differences within the
+tolerance are normal; a FAIL is not.

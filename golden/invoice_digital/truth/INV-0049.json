@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0049",
+  "invoice_number": "A74168/2024",
+  "invoice_date": "2024-03-23",
+  "due_date": "2024-04-06",
+  "vendor_name": "White, Fisher and Harrison",
+  "vendor_address": "979 Smith Key, Scottchester, HG8 7EG",
+  "customer_name": "James Foster",
+  "customer_address": "134 Cox Shoals, North Amelia, B40 5RG",
+  "currency": "GBP",
+  "subtotal": 3802.47,
+  "tax_rate": 0.2,
+  "tax_amount": 760.49,
+  "shipping": 102.21,
+  "total": 4665.17,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 371.88,
+      "amount": 3718.8
+    },
+    {
+      "line_no": 2,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 83.67,
+      "amount": 83.67
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-0174",
+  "invoice_number": "202468003",
+  "invoice_date": "2024-07-26",
+  "due_date": "2024-09-09",
+  "vendor_name": "Cox, Hampton and Miles",
+  "vendor_address": "75426 Bradford Landing Suite 504, Marcusburgh, MI 96495",
+  "customer_name": "Stevens-Roberts",
+  "customer_address": "29849 Walker Crest Apt. 218, Lake Heather, MN 74965",
+  "currency": "USD",
+  "subtotal": 6005.27,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping": 14.66,
+  "total": 6019.93,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 543.24,
+      "amount": 5432.4
+    },
+    {
+      "line_no": 2,
+      "description": "Copy paper (box)",
+      "quantity": 1.0,
+      "unit_price": 57.42,
+      "amount": 57.42
+    },
+    {
+      "line_no": 3,
+      "description": "Project management",
+      "quantity": 5.0,
+      "unit_price": 103.09,
+      "amount": 515.45
+    }
+  ]
+}

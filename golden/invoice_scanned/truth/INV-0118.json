@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-0118",
+  "invoice_number": "A55975/2025",
+  "invoice_date": "2025-01-23",
+  "due_date": "2025-02-06",
+  "vendor_name": "Robinson and Sons",
+  "vendor_address": "5 Evans Mall, New Timothyview, B86 1FZ",
+  "customer_name": "Bennett, Anderson and Marshall",
+  "customer_address": "Studio 31Z, Eleanor Brooks, Hollandshire, LS91 1RH",
+  "currency": "GBP",
+  "subtotal": 1275.35,
+  "tax_rate": 0.2,
+  "tax_amount": 255.07,
+  "shipping": 0.0,
+  "total": 1530.42,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 70.15,
+      "amount": 70.15
+    },
+    {
+      "line_no": 2,
+      "description": "Wireless keyboard",
+      "quantity": 3.0,
+      "unit_price": 52.92,
+      "amount": 158.76
+    },
+    {
+      "line_no": 3,
+      "description": "Desk lamp",
+      "quantity": 10.0,
+      "unit_price": 42.43,
+      "amount": 424.3
+    },
+    {
+      "line_no": 4,
+      "description": "USB-C docking station",
+      "quantity": 2.0,
+      "unit_price": 214.65,
+      "amount": 429.3
+    },
+    {
+      "line_no": 5,
+      "description": "Technical support hours",
+      "quantity": 1.5,
+      "unit_price": 128.56,
+      "amount": 192.84
+    }
+  ]
+}

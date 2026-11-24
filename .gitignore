@@ -1,0 +1,15 @@
+# Python environment and caches (created on the server by deploy/setup_server.ps1)
+.venv/
+__pycache__/
+*.pyc
+
+# Real settings can hold server names or a password: only the example is committed
+deploy/server_settings.ps1
+
+# Working data, in case OCR_HOME is left at its default (this folder)
+incoming/
+archive/
+runs/
+reports/
+reviews/
+logs/

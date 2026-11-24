@@ -1,0 +1,67 @@
+{
+  "invoice_digital": {
+    "schema": "invoice",
+    "model": "qwen2.5:7b",
+    "text_mode": "blocks",
+    "num_ctx": 8192,
+    "reference_run": "digital_qwen7b_v2",
+    "documents": 25,
+    "fully_right": 0.84,
+    "field_accuracy": {
+      "invoice_number": 1.0,
+      "invoice_date": 1.0,
+      "due_date": 1.0,
+      "vendor_name": 0.96,
+      "vendor_address": 0.92,
+      "customer_name": 1.0,
+      "customer_address": 1.0,
+      "currency": 0.96,
+      "subtotal": 1.0,
+      "tax_rate": 1.0,
+      "tax_amount": 1.0,
+      "shipping": 1.0,
+      "total": 1.0,
+      "line_items": 0.96
+    }
+  },
+  "invoice_scanned": {
+    "schema": "invoice",
+    "model": "qwen2.5vl:7b",
+    "text_mode": "image",
+    "num_ctx": 16384,
+    "reference_run": "scanned_vision_qwen7bvl_datefix",
+    "documents": 50,
+    "fully_right": 0.9,
+    "field_accuracy": {
+      "invoice_number": 0.98,
+      "invoice_date": 1.0,
+      "due_date": 1.0,
+      "vendor_name": 1.0,
+      "vendor_address": 0.94,
+      "customer_name": 0.98,
+      "customer_address": 1.0,
+      "currency": 1.0,
+      "subtotal": 1.0,
+      "tax_rate": 1.0,
+      "tax_amount": 1.0,
+      "shipping": 1.0,
+      "total": 1.0,
+      "line_items": 0.98
+    }
+  },
+  "receipt": {
+    "schema": "receipt",
+    "model": "qwen2.5vl:7b",
+    "text_mode": "image",
+    "num_ctx": 16384,
+    "reference_run": "sroie_vision_qwen7bvl_datefix",
+    "documents": 105,
+    "fully_right": 0.9238,
+    "field_accuracy": {
+      "company": 0.9714,
+      "address": 1.0,
+      "date": 0.9714,
+      "total": 0.981
+    }
+  }
+}

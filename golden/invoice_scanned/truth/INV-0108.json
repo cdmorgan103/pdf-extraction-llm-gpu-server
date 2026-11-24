@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-0108",
+  "invoice_number": "202513645",
+  "invoice_date": "2025-06-28",
+  "due_date": "2025-08-12",
+  "vendor_name": "Hermighausen",
+  "vendor_address": "Edgar-Weihmann-Gasse 6-6, 83062 Worbis",
+  "customer_name": "Sölzer e.G.",
+  "customer_address": "Matthäistr. 430, 66676 Eisenhüttenstadt",
+  "currency": "EUR",
+  "subtotal": 4002.97,
+  "tax_rate": 0.07,
+  "tax_amount": 280.21,
+  "shipping": 0.0,
+  "total": 4283.18,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Data migration",
+      "quantity": 1.0,
+      "unit_price": 3012.91,
+      "amount": 3012.91
+    },
+    {
+      "line_no": 2,
+      "description": "Copy paper (box)",
+      "quantity": 25.0,
+      "unit_price": 36.61,
+      "amount": 915.25
+    },
+    {
+      "line_no": 3,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 74.81,
+      "amount": 74.81
+    }
+  ]
+}

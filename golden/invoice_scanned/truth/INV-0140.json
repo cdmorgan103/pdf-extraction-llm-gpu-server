@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-0140",
+  "invoice_number": "A3251/2024",
+  "invoice_date": "2024-01-26",
+  "due_date": "2024-03-11",
+  "vendor_name": "Woodard, Lambert and Campos",
+  "vendor_address": "72970 Roger Station Suite 408, New Theresaberg, LA 45380",
+  "customer_name": "Brown Inc",
+  "customer_address": "29549 Monique Neck Suite 479, Robinsonborough, MT 37206",
+  "currency": "USD",
+  "subtotal": 37720.02,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping": 68.36,
+  "total": 37788.38,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Training workshop",
+      "quantity": 25.0,
+      "unit_price": 1194.46,
+      "amount": 29861.5
+    },
+    {
+      "line_no": 2,
+      "description": "Training workshop",
+      "quantity": 3.0,
+      "unit_price": 1579.56,
+      "amount": 4738.68
+    },
+    {
+      "line_no": 3,
+      "description": "Consulting services",
+      "quantity": 3.0,
+      "unit_price": 244.83,
+      "amount": 734.49
+    },
+    {
+      "line_no": 4,
+      "description": "Project management",
+      "quantity": 1.0,
+      "unit_price": 173.94,
+      "amount": 173.94
+    },
+    {
+      "line_no": 5,
+      "description": "Consulting services",
+      "quantity": 12.0,
+      "unit_price": 137.58,
+      "amount": 1650.96
+    },
+    {
+      "line_no": 6,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 560.45,
+      "amount": 560.45
+    }
+  ]
+}

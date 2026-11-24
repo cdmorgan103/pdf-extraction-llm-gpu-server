@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0105",
+  "invoice_number": "202496101",
+  "invoice_date": "2024-06-06",
+  "due_date": "2024-08-05",
+  "vendor_name": "Mistry-Lynch",
+  "vendor_address": "Flat 2, Kelly Crest, New Jordan, FY4X 6LR",
+  "customer_name": "Walsh-Matthews",
+  "customer_address": "696 Nigel Parkway, New Leahhaven, SN0R 8AY",
+  "currency": "GBP",
+  "subtotal": 24577.54,
+  "tax_rate": 0.2,
+  "tax_amount": 4915.51,
+  "shipping": 0.0,
+  "total": 29493.05,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 4.0,
+      "unit_price": 98.01,
+      "amount": 392.04
+    },
+    {
+      "line_no": 2,
+      "description": "Website maintenance",
+      "quantity": 25.0,
+      "unit_price": 967.42,
+      "amount": 24185.5
+    }
+  ]
+}

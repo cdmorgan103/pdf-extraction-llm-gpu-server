@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0098",
+  "invoice_number": "A32896/2024",
+  "invoice_date": "2024-06-02",
+  "due_date": "2024-07-17",
+  "vendor_name": "Garrison Ltd",
+  "vendor_address": "57384 Brittany Mount, Wonghaven, MT 01622",
+  "customer_name": "Gaines, Vaughn and Hayes",
+  "customer_address": "8528 Fernando Islands Apt. 109, Stevensstad, IL 26193",
+  "currency": "USD",
+  "subtotal": 6495.6,
+  "tax_rate": 0.07,
+  "tax_amount": 454.69,
+  "shipping": 0.0,
+  "total": 6950.29,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Website maintenance",
+      "quantity": 10.0,
+      "unit_price": 649.56,
+      "amount": 6495.6
+    }
+  ]
+}

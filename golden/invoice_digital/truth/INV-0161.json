@@ -1,0 +1,228 @@
+{
+  "invoice_id": "INV-0161",
+  "invoice_number": "075309",
+  "invoice_date": "2024-09-24",
+  "due_date": "2024-10-24",
+  "vendor_name": "Smith, Luna and Ward",
+  "vendor_address": "USNV Hicks, FPO AE 06668",
+  "customer_name": "Johnson, Evans and Walsh",
+  "customer_address": "4435 Emily Dale, Port Christophertown, VT 66414",
+  "currency": "USD",
+  "subtotal": 229397.28,
+  "tax_rate": 0.0825,
+  "tax_amount": 18925.28,
+  "shipping": 0.0,
+  "total": 248322.56,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "USB-C docking station",
+      "quantity": 1.0,
+      "unit_price": 261.19,
+      "amount": 261.19
+    },
+    {
+      "line_no": 2,
+      "description": "Website maintenance",
+      "quantity": 1.0,
+      "unit_price": 658.04,
+      "amount": 658.04
+    },
+    {
+      "line_no": 3,
+      "description": "Data migration",
+      "quantity": 1.0,
+      "unit_price": 3334.67,
+      "amount": 3334.67
+    },
+    {
+      "line_no": 4,
+      "description": "Cloud hosting - monthly",
+      "quantity": 2.0,
+      "unit_price": 823.45,
+      "amount": 1646.9
+    },
+    {
+      "line_no": 5,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 92.83,
+      "amount": 92.83
+    },
+    {
+      "line_no": 6,
+      "description": "Software license (annual)",
+      "quantity": 12.0,
+      "unit_price": 1952.52,
+      "amount": 23430.24
+    },
+    {
+      "line_no": 7,
+      "description": "Network switch 24-port",
+      "quantity": 12.0,
+      "unit_price": 699.41,
+      "amount": 8392.92
+    },
+    {
+      "line_no": 8,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 265.72,
+      "amount": 265.72
+    },
+    {
+      "line_no": 9,
+      "description": "Monitor 27in",
+      "quantity": 5.0,
+      "unit_price": 354.0,
+      "amount": 1770.0
+    },
+    {
+      "line_no": 10,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 22.99,
+      "amount": 22.99
+    },
+    {
+      "line_no": 11,
+      "description": "Ergonomic mouse",
+      "quantity": 2.0,
+      "unit_price": 47.93,
+      "amount": 95.86
+    },
+    {
+      "line_no": 12,
+      "description": "Ergonomic mouse",
+      "quantity": 10.0,
+      "unit_price": 72.69,
+      "amount": 726.9
+    },
+    {
+      "line_no": 13,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 40.95,
+      "amount": 40.95
+    },
+    {
+      "line_no": 14,
+      "description": "Technical support hours",
+      "quantity": 12.0,
+      "unit_price": 100.96,
+      "amount": 1211.52
+    },
+    {
+      "line_no": 15,
+      "description": "Project management",
+      "quantity": 25.0,
+      "unit_price": 92.26,
+      "amount": 2306.5
+    },
+    {
+      "line_no": 16,
+      "description": "Desk lamp",
+      "quantity": 3.0,
+      "unit_price": 33.6,
+      "amount": 100.8
+    },
+    {
+      "line_no": 17,
+      "description": "Software license (annual)",
+      "quantity": 10.0,
+      "unit_price": 1029.48,
+      "amount": 10294.8
+    },
+    {
+      "line_no": 18,
+      "description": "Training workshop",
+      "quantity": 2.0,
+      "unit_price": 709.35,
+      "amount": 1418.7
+    },
+    {
+      "line_no": 19,
+      "description": "Printer toner",
+      "quantity": 25.0,
+      "unit_price": 80.61,
+      "amount": 2015.25
+    },
+    {
+      "line_no": 20,
+      "description": "Shipping crate",
+      "quantity": 2.0,
+      "unit_price": 33.97,
+      "amount": 67.94
+    },
+    {
+      "line_no": 21,
+      "description": "Security audit",
+      "quantity": 10.0,
+      "unit_price": 3893.87,
+      "amount": 38938.7
+    },
+    {
+      "line_no": 22,
+      "description": "USB-C docking station",
+      "quantity": 10.0,
+      "unit_price": 277.57,
+      "amount": 2775.7
+    },
+    {
+      "line_no": 23,
+      "description": "Laptop stand",
+      "quantity": 25.0,
+      "unit_price": 66.65,
+      "amount": 1666.25
+    },
+    {
+      "line_no": 24,
+      "description": "Website maintenance",
+      "quantity": 5.0,
+      "unit_price": 1138.11,
+      "amount": 5690.55
+    },
+    {
+      "line_no": 25,
+      "description": "Project management",
+      "quantity": 12.0,
+      "unit_price": 88.93,
+      "amount": 1067.16
+    },
+    {
+      "line_no": 26,
+      "description": "Copy paper (box)",
+      "quantity": 1.0,
+      "unit_price": 48.71,
+      "amount": 48.71
+    },
+    {
+      "line_no": 27,
+      "description": "Data migration",
+      "quantity": 25.0,
+      "unit_price": 4746.39,
+      "amount": 118659.75
+    },
+    {
+      "line_no": 28,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 330.94,
+      "amount": 330.94
+    },
+    {
+      "line_no": 29,
+      "description": "Copy paper (box)",
+      "quantity": 10.0,
+      "unit_price": 59.28,
+      "amount": 592.8
+    },
+    {
+      "line_no": 30,
+      "description": "Training workshop",
+      "quantity": 1.0,
+      "unit_price": 1472.0,
+      "amount": 1472.0
+    }
+  ]
+}

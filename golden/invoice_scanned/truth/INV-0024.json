@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-0024",
+  "invoice_number": "202573527",
+  "invoice_date": "2025-11-17",
+  "due_date": "2025-12-01",
+  "vendor_name": "Weinhold AG",
+  "vendor_address": "Jäntschallee 83/44, 60192 Grimmen",
+  "customer_name": "Dr. Rotraud Klemt MBA.",
+  "customer_address": "Ruppersbergerplatz 6, 23834 Bad Freienwalde",
+  "currency": "EUR",
+  "subtotal": 9986.28,
+  "tax_rate": 0.07,
+  "tax_amount": 699.04,
+  "shipping": 0.0,
+  "total": 10685.32,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Cloud hosting - monthly",
+      "quantity": 3.0,
+      "unit_price": 342.42,
+      "amount": 1027.26
+    },
+    {
+      "line_no": 2,
+      "description": "Network switch 24-port",
+      "quantity": 25.0,
+      "unit_price": 309.55,
+      "amount": 7738.75
+    },
+    {
+      "line_no": 3,
+      "description": "Laptop stand",
+      "quantity": 12.0,
+      "unit_price": 29.58,
+      "amount": 354.96
+    },
+    {
+      "line_no": 4,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 32.31,
+      "amount": 32.31
+    },
+    {
+      "line_no": 5,
+      "description": "Desk lamp",
+      "quantity": 25.0,
+      "unit_price": 33.32,
+      "amount": 833.0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-0097",
+  "invoice_number": "202555568",
+  "invoice_date": "2025-06-14",
+  "due_date": "2025-07-29",
+  "vendor_name": "Flores PLC",
+  "vendor_address": "9803 Mcdonald Land Suite 010, Parkerview, NM 31365",
+  "customer_name": "Brown Inc",
+  "customer_address": "436 James Forges, Kristenberg, MO 02325",
+  "currency": "USD",
+  "subtotal": 1391.6,
+  "tax_rate": 0.07,
+  "tax_amount": 97.41,
+  "shipping": 0.0,
+  "total": 1489.01,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 135.32,
+      "amount": 135.32
+    },
+    {
+      "line_no": 2,
+      "description": "Copy paper (box)",
+      "quantity": 3.0,
+      "unit_price": 27.49,
+      "amount": 82.47
+    },
+    {
+      "line_no": 3,
+      "description": "Wireless keyboard",
+      "quantity": 3.0,
+      "unit_price": 43.71,
+      "amount": 131.13
+    },
+    {
+      "line_no": 4,
+      "description": "Ergonomic mouse",
+      "quantity": 12.0,
+      "unit_price": 86.89,
+      "amount": 1042.68
+    }
+  ]
+}

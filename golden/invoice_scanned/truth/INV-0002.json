@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-0002",
+  "invoice_number": "202578173",
+  "invoice_date": "2025-07-28",
+  "due_date": "2025-09-26",
+  "vendor_name": "Johnson and Sons",
+  "vendor_address": "89454 Payne Pines, Stonemouth, UT 54211",
+  "customer_name": "Delgado, Barber and Garcia",
+  "customer_address": "228 Brian Rue, Richardburgh, AS 70149",
+  "currency": "USD",
+  "subtotal": 1164.84,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping": 23.4,
+  "total": 1188.24,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Ergonomic mouse",
+      "quantity": 5.0,
+      "unit_price": 31.45,
+      "amount": 157.25
+    },
+    {
+      "line_no": 2,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 532.14,
+      "amount": 532.14
+    },
+    {
+      "line_no": 3,
+      "description": "Office chair",
+      "quantity": 1.0,
+      "unit_price": 475.45,
+      "amount": 475.45
+    }
+  ]
+}

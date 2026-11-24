@@ -1,0 +1,102 @@
+{
+  "invoice_id": "INV-0137",
+  "invoice_number": "INV-2025-73500",
+  "invoice_date": "2025-04-15",
+  "due_date": "2025-06-14",
+  "vendor_name": "Johnson LLC",
+  "vendor_address": "28001 Richard Crossing, Johnsonview, RI 13782",
+  "customer_name": "Miller, Roman and Myers",
+  "customer_address": "000 Ward Creek Apt. 347, Port Joanna, MN 81841",
+  "currency": "USD",
+  "subtotal": 55590.09,
+  "tax_rate": 0.07,
+  "tax_amount": 3891.31,
+  "shipping": 0.0,
+  "total": 59481.4,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Software license (annual)",
+      "quantity": 10.0,
+      "unit_price": 2254.9,
+      "amount": 22549.0
+    },
+    {
+      "line_no": 2,
+      "description": "Training workshop",
+      "quantity": 5.0,
+      "unit_price": 1733.48,
+      "amount": 8667.4
+    },
+    {
+      "line_no": 3,
+      "description": "Desk lamp",
+      "quantity": 3.0,
+      "unit_price": 36.7,
+      "amount": 110.1
+    },
+    {
+      "line_no": 4,
+      "description": "Technical support hours",
+      "quantity": 7.5,
+      "unit_price": 143.77,
+      "amount": 1078.28
+    },
+    {
+      "line_no": 5,
+      "description": "Office chair",
+      "quantity": 25.0,
+      "unit_price": 383.37,
+      "amount": 9584.25
+    },
+    {
+      "line_no": 6,
+      "description": "Website maintenance",
+      "quantity": 2.0,
+      "unit_price": 966.46,
+      "amount": 1932.92
+    },
+    {
+      "line_no": 7,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 55.33,
+      "amount": 55.33
+    },
+    {
+      "line_no": 8,
+      "description": "Ergonomic mouse",
+      "quantity": 5.0,
+      "unit_price": 70.18,
+      "amount": 350.9
+    },
+    {
+      "line_no": 9,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 167.51,
+      "amount": 167.51
+    },
+    {
+      "line_no": 10,
+      "description": "Network switch 24-port",
+      "quantity": 5.0,
+      "unit_price": 815.98,
+      "amount": 4079.9
+    },
+    {
+      "line_no": 11,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 145.1,
+      "amount": 145.1
+    },
+    {
+      "line_no": 12,
+      "description": "Cloud hosting - monthly",
+      "quantity": 12.0,
+      "unit_price": 572.45,
+      "amount": 6869.4
+    }
+  ]
+}

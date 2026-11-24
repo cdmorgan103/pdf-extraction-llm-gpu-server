@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0089",
+  "invoice_number": "A71234/2024",
+  "invoice_date": "2024-09-26",
+  "due_date": "2024-10-10",
+  "vendor_name": "Bloch",
+  "vendor_address": "Annette-Kusch-Allee 463, 23563 Marktheidenfeld",
+  "customer_name": "Prof. Heidrun Bähr B.Eng.",
+  "customer_address": "Jacobi Jäckelgasse 1/5, 82873 Backnang",
+  "currency": "EUR",
+  "subtotal": 41683.08,
+  "tax_rate": 0.19,
+  "tax_amount": 7919.79,
+  "shipping": 0.0,
+  "total": 49602.87,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 2069.08,
+      "amount": 2069.08
+    },
+    {
+      "line_no": 2,
+      "description": "Data migration",
+      "quantity": 10.0,
+      "unit_price": 3961.4,
+      "amount": 39614.0
+    }
+  ]
+}

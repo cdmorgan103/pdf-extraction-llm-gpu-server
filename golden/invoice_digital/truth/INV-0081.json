@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0081",
+  "invoice_number": "026331",
+  "invoice_date": "2024-10-28",
+  "due_date": "2024-12-12",
+  "vendor_name": "Jackson-Fuller",
+  "vendor_address": "494 Joe Fall, East Rachaelstad, E8H 0TR",
+  "customer_name": "Fisher, Smith and Spencer",
+  "customer_address": "785 Trevor Trace, North Melanie, BB4V 5AT",
+  "currency": "GBP",
+  "subtotal": 4526.75,
+  "tax_rate": 0.2,
+  "tax_amount": 905.35,
+  "shipping": 0.0,
+  "total": 5432.1,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 20.0,
+      "unit_price": 144.0,
+      "amount": 2880.0
+    },
+    {
+      "line_no": 2,
+      "description": "Printer toner",
+      "quantity": 25.0,
+      "unit_price": 65.87,
+      "amount": 1646.75
+    }
+  ]
+}

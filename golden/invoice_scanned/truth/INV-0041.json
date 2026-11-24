@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-0041",
+  "invoice_number": "099859",
+  "invoice_date": "2024-08-14",
+  "due_date": "2024-08-29",
+  "vendor_name": "Clark, Todd and Steele",
+  "vendor_address": "48 Mathew Land, South Sheilaside, CW1 8GG",
+  "customer_name": "Winter-Hussain",
+  "customer_address": "Studio 85, Hayes Falls, Taylorchester, E8W 5AU",
+  "currency": "GBP",
+  "subtotal": 10047.9,
+  "tax_rate": 0.2,
+  "tax_amount": 2009.58,
+  "shipping": 0.0,
+  "total": 12057.48,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "USB-C docking station",
+      "quantity": 12.0,
+      "unit_price": 244.5,
+      "amount": 2934.0
+    },
+    {
+      "line_no": 2,
+      "description": "Training workshop",
+      "quantity": 5.0,
+      "unit_price": 1422.78,
+      "amount": 7113.9
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0193",
+  "invoice_number": "040002",
+  "invoice_date": "2025-11-25",
+  "due_date": "2026-01-24",
+  "vendor_name": "Hunter-Martin",
+  "vendor_address": "6234 Travis Extensions Suite 056, West Daniel, WV 43361",
+  "customer_name": "Thomas LLC",
+  "customer_address": "59618 Ruiz Run Apt. 362, West Glennburgh, AL 59060",
+  "currency": "USD",
+  "subtotal": 109070.48,
+  "tax_rate": 0.0825,
+  "tax_amount": 8998.31,
+  "shipping": 0.0,
+  "total": 118068.79,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 20.27,
+      "amount": 20.27
+    },
+    {
+      "line_no": 2,
+      "description": "Office chair",
+      "quantity": 3.0,
+      "unit_price": 116.96,
+      "amount": 350.88
+    },
+    {
+      "line_no": 3,
+      "description": "USB-C docking station",
+      "quantity": 5.0,
+      "unit_price": 235.65,
+      "amount": 1178.25
+    },
+    {
+      "line_no": 4,
+      "description": "Technical support hours",
+      "quantity": 4.0,
+      "unit_price": 141.39,
+      "amount": 565.56
+    },
+    {
+      "line_no": 5,
+      "description": "Security audit",
+      "quantity": 10.0,
+      "unit_price": 5947.51,
+      "amount": 59475.1
+    },
+    {
+      "line_no": 6,
+      "description": "Consulting services",
+      "quantity": 1.0,
+      "unit_price": 154.62,
+      "amount": 154.62
+    },
+    {
+      "line_no": 7,
+      "description": "Data migration",
+      "quantity": 5.0,
+      "unit_price": 4093.11,
+      "amount": 20465.55
+    },
+    {
+      "line_no": 8,
+      "description": "Training workshop",
+      "quantity": 25.0,
+      "unit_price": 1074.41,
+      "amount": 26860.25
+    }
+  ]
+}

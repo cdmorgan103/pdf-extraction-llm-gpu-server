@@ -1,0 +1,228 @@
+{
+  "invoice_id": "INV-0065",
+  "invoice_number": "INV-2024-07363",
+  "invoice_date": "2024-03-07",
+  "due_date": "2024-03-22",
+  "vendor_name": "Robinson LLC",
+  "vendor_address": "9804 Daniel Circle, Grayborough, VT 06933",
+  "customer_name": "Smith-Boyer",
+  "customer_address": "2150 Daniel Harbor, Frankburgh, FM 75795",
+  "currency": "USD",
+  "subtotal": 123772.21,
+  "tax_rate": 0.0625,
+  "tax_amount": 7735.76,
+  "shipping": 0.0,
+  "total": 131507.97,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Technical support hours",
+      "quantity": 20.0,
+      "unit_price": 134.04,
+      "amount": 2680.8
+    },
+    {
+      "line_no": 2,
+      "description": "Technical support hours",
+      "quantity": 7.5,
+      "unit_price": 119.87,
+      "amount": 899.03
+    },
+    {
+      "line_no": 3,
+      "description": "Office chair",
+      "quantity": 25.0,
+      "unit_price": 334.31,
+      "amount": 8357.75
+    },
+    {
+      "line_no": 4,
+      "description": "Software license (annual)",
+      "quantity": 1.0,
+      "unit_price": 843.48,
+      "amount": 843.48
+    },
+    {
+      "line_no": 5,
+      "description": "Network switch 24-port",
+      "quantity": 1.0,
+      "unit_price": 464.43,
+      "amount": 464.43
+    },
+    {
+      "line_no": 6,
+      "description": "Cloud hosting - monthly",
+      "quantity": 25.0,
+      "unit_price": 254.27,
+      "amount": 6356.75
+    },
+    {
+      "line_no": 7,
+      "description": "Training workshop",
+      "quantity": 25.0,
+      "unit_price": 2446.08,
+      "amount": 61152.0
+    },
+    {
+      "line_no": 8,
+      "description": "Laptop stand",
+      "quantity": 10.0,
+      "unit_price": 65.82,
+      "amount": 658.2
+    },
+    {
+      "line_no": 9,
+      "description": "USB-C docking station",
+      "quantity": 5.0,
+      "unit_price": 185.53,
+      "amount": 927.65
+    },
+    {
+      "line_no": 10,
+      "description": "Copy paper (box)",
+      "quantity": 12.0,
+      "unit_price": 33.76,
+      "amount": 405.12
+    },
+    {
+      "line_no": 11,
+      "description": "Desk lamp",
+      "quantity": 25.0,
+      "unit_price": 30.65,
+      "amount": 766.25
+    },
+    {
+      "line_no": 12,
+      "description": "Copy paper (box)",
+      "quantity": 3.0,
+      "unit_price": 27.19,
+      "amount": 81.57
+    },
+    {
+      "line_no": 13,
+      "description": "Printer toner",
+      "quantity": 5.0,
+      "unit_price": 101.65,
+      "amount": 508.25
+    },
+    {
+      "line_no": 14,
+      "description": "Laptop stand",
+      "quantity": 1.0,
+      "unit_price": 73.22,
+      "amount": 73.22
+    },
+    {
+      "line_no": 15,
+      "description": "Data migration",
+      "quantity": 3.0,
+      "unit_price": 763.66,
+      "amount": 2290.98
+    },
+    {
+      "line_no": 16,
+      "description": "Shipping crate",
+      "quantity": 12.0,
+      "unit_price": 59.41,
+      "amount": 712.92
+    },
+    {
+      "line_no": 17,
+      "description": "Consulting services",
+      "quantity": 2.0,
+      "unit_price": 245.58,
+      "amount": 491.16
+    },
+    {
+      "line_no": 18,
+      "description": "Office chair",
+      "quantity": 1.0,
+      "unit_price": 216.41,
+      "amount": 216.41
+    },
+    {
+      "line_no": 19,
+      "description": "Security audit",
+      "quantity": 2.0,
+      "unit_price": 2865.69,
+      "amount": 5731.38
+    },
+    {
+      "line_no": 20,
+      "description": "Project management",
+      "quantity": 1.0,
+      "unit_price": 169.33,
+      "amount": 169.33
+    },
+    {
+      "line_no": 21,
+      "description": "Ergonomic mouse",
+      "quantity": 2.0,
+      "unit_price": 58.18,
+      "amount": 116.36
+    },
+    {
+      "line_no": 22,
+      "description": "Website maintenance",
+      "quantity": 10.0,
+      "unit_price": 490.29,
+      "amount": 4902.9
+    },
+    {
+      "line_no": 23,
+      "description": "Printer toner",
+      "quantity": 1.0,
+      "unit_price": 51.13,
+      "amount": 51.13
+    },
+    {
+      "line_no": 24,
+      "description": "Project management",
+      "quantity": 5.0,
+      "unit_price": 174.81,
+      "amount": 874.05
+    },
+    {
+      "line_no": 25,
+      "description": "Desk lamp",
+      "quantity": 5.0,
+      "unit_price": 65.01,
+      "amount": 325.05
+    },
+    {
+      "line_no": 26,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 90.35,
+      "amount": 90.35
+    },
+    {
+      "line_no": 27,
+      "description": "Shipping crate",
+      "quantity": 5.0,
+      "unit_price": 86.59,
+      "amount": 432.95
+    },
+    {
+      "line_no": 28,
+      "description": "Monitor 27in",
+      "quantity": 1.0,
+      "unit_price": 472.82,
+      "amount": 472.82
+    },
+    {
+      "line_no": 29,
+      "description": "Network switch 24-port",
+      "quantity": 2.0,
+      "unit_price": 777.52,
+      "amount": 1555.04
+    },
+    {
+      "line_no": 30,
+      "description": "Training workshop",
+      "quantity": 12.0,
+      "unit_price": 1763.74,
+      "amount": 21164.88
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-0058",
+  "invoice_number": "202428552",
+  "invoice_date": "2024-12-01",
+  "due_date": "2025-01-30",
+  "vendor_name": "Byrne, Gibson and Scott",
+  "vendor_address": "4 Dennis Point, West Ianfurt, DY5R 4PG",
+  "customer_name": "Kirsty O'Sullivan",
+  "customer_address": "Studio 3, Sian Harbor, Port Chloeburgh, B25 0UY",
+  "currency": "GBP",
+  "subtotal": 4965.24,
+  "tax_rate": 0.2,
+  "tax_amount": 993.05,
+  "shipping": 0.0,
+  "total": 5958.29,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Office chair",
+      "quantity": 12.0,
+      "unit_price": 413.77,
+      "amount": 4965.24
+    }
+  ]
+}

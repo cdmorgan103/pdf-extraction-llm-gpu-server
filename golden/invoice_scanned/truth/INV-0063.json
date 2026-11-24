@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-0063",
+  "invoice_number": "A41689/2024",
+  "invoice_date": "2024-08-25",
+  "due_date": "2024-10-24",
+  "vendor_name": "Daniel-Swanson",
+  "vendor_address": "Unit 9161 Box 8136, DPO AE 56226",
+  "customer_name": "Walsh Ltd",
+  "customer_address": "1923 Haney Isle Apt. 670, Mccormickberg, DE 76078",
+  "currency": "USD",
+  "subtotal": 6353.33,
+  "tax_rate": 0.0825,
+  "tax_amount": 524.15,
+  "shipping": 0.0,
+  "total": 6877.48,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Laptop stand",
+      "quantity": 25.0,
+      "unit_price": 23.68,
+      "amount": 592.0
+    },
+    {
+      "line_no": 2,
+      "description": "Training workshop",
+      "quantity": 10.0,
+      "unit_price": 502.04,
+      "amount": 5020.4
+    },
+    {
+      "line_no": 3,
+      "description": "Office chair",
+      "quantity": 1.0,
+      "unit_price": 311.84,
+      "amount": 311.84
+    },
+    {
+      "line_no": 4,
+      "description": "Ergonomic mouse",
+      "quantity": 1.0,
+      "unit_price": 32.76,
+      "amount": 32.76
+    },
+    {
+      "line_no": 5,
+      "description": "Printer toner",
+      "quantity": 3.0,
+      "unit_price": 132.11,
+      "amount": 396.33
+    }
+  ]
+}

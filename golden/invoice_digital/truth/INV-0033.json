@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-0033",
+  "invoice_number": "014870",
+  "invoice_date": "2024-08-29",
+  "due_date": "2024-09-28",
+  "vendor_name": "Clark PLC",
+  "vendor_address": "4437 Fowler Ridges Suite 326, Bowenfort, CA 29474",
+  "customer_name": "Thompson-Morales",
+  "customer_address": "9661 Scott Common, Michealborough, RI 22086",
+  "currency": "USD",
+  "subtotal": 19473.93,
+  "tax_rate": 0.07,
+  "tax_amount": 1363.18,
+  "shipping": 0.0,
+  "total": 20837.11,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Wireless keyboard",
+      "quantity": 1.0,
+      "unit_price": 87.91,
+      "amount": 87.91
+    },
+    {
+      "line_no": 2,
+      "description": "Security audit",
+      "quantity": 5.0,
+      "unit_price": 3604.09,
+      "amount": 18020.45
+    },
+    {
+      "line_no": 3,
+      "description": "Cloud hosting - monthly",
+      "quantity": 1.0,
+      "unit_price": 533.57,
+      "amount": 533.57
+    },
+    {
+      "line_no": 4,
+      "description": "Desk lamp",
+      "quantity": 25.0,
+      "unit_price": 33.28,
+      "amount": 832.0
+    }
+  ]
+}

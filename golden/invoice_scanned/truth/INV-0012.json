@@ -1,0 +1,102 @@
+{
+  "invoice_id": "INV-0012",
+  "invoice_number": "060953",
+  "invoice_date": "2025-04-23",
+  "due_date": "2025-05-08",
+  "vendor_name": "Binner",
+  "vendor_address": "Pia-Wagenknecht-Weg 9-1, 47622 Rockenhausen",
+  "customer_name": "Finke AG & Co. KGaA",
+  "customer_address": "Pohlring 8, 58251 Oschatz",
+  "currency": "EUR",
+  "subtotal": 54405.69,
+  "tax_rate": 0.19,
+  "tax_amount": 10337.08,
+  "shipping": 0.0,
+  "total": 64742.77,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Monitor 27in",
+      "quantity": 10.0,
+      "unit_price": 350.22,
+      "amount": 3502.2
+    },
+    {
+      "line_no": 2,
+      "description": "Software license (annual)",
+      "quantity": 12.0,
+      "unit_price": 951.75,
+      "amount": 11421.0
+    },
+    {
+      "line_no": 3,
+      "description": "Office chair",
+      "quantity": 10.0,
+      "unit_price": 231.91,
+      "amount": 2319.1
+    },
+    {
+      "line_no": 4,
+      "description": "Security audit",
+      "quantity": 10.0,
+      "unit_price": 2765.9,
+      "amount": 27659.0
+    },
+    {
+      "line_no": 5,
+      "description": "Desk lamp",
+      "quantity": 1.0,
+      "unit_price": 39.28,
+      "amount": 39.28
+    },
+    {
+      "line_no": 6,
+      "description": "Office chair",
+      "quantity": 25.0,
+      "unit_price": 116.56,
+      "amount": 2914.0
+    },
+    {
+      "line_no": 7,
+      "description": "Network switch 24-port",
+      "quantity": 5.0,
+      "unit_price": 318.17,
+      "amount": 1590.85
+    },
+    {
+      "line_no": 8,
+      "description": "Technical support hours",
+      "quantity": 1.5,
+      "unit_price": 153.75,
+      "amount": 230.62
+    },
+    {
+      "line_no": 9,
+      "description": "Training workshop",
+      "quantity": 1.0,
+      "unit_price": 2336.43,
+      "amount": 2336.43
+    },
+    {
+      "line_no": 10,
+      "description": "Project management",
+      "quantity": 2.0,
+      "unit_price": 95.92,
+      "amount": 191.84
+    },
+    {
+      "line_no": 11,
+      "description": "Shipping crate",
+      "quantity": 1.0,
+      "unit_price": 65.39,
+      "amount": 65.39
+    },
+    {
+      "line_no": 12,
+      "description": "Data migration",
+      "quantity": 2.0,
+      "unit_price": 1067.99,
+      "amount": 2135.98
+    }
+  ]
+}

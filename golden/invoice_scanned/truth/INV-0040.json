@@ -1,0 +1,74 @@
+{
+  "invoice_id": "INV-0040",
+  "invoice_number": "202542416",
+  "invoice_date": "2025-10-18",
+  "due_date": "2025-12-17",
+  "vendor_name": "Riley, Foster and Duffy",
+  "vendor_address": "138 Anthony Mount, North Helen, PL57 0BE",
+  "customer_name": "Tina Owen",
+  "customer_address": "Flat 22, Lowe Station, Christineshire, HD46 7QR",
+  "currency": "GBP",
+  "subtotal": 80876.98,
+  "tax_rate": 0.2,
+  "tax_amount": 16175.4,
+  "shipping": 0.0,
+  "total": 97052.38,
+  "line_items": [
+    {
+      "line_no": 1,
+      "description": "Website maintenance",
+      "quantity": 1.0,
+      "unit_price": 904.23,
+      "amount": 904.23
+    },
+    {
+      "line_no": 2,
+      "description": "Technical support hours",
+      "quantity": 7.5,
+      "unit_price": 146.23,
+      "amount": 1096.72
+    },
+    {
+      "line_no": 3,
+      "description": "Data migration",
+      "quantity": 1.0,
+      "unit_price": 3814.78,
+      "amount": 3814.78
+    },
+    {
+      "line_no": 4,
+      "description": "Training workshop",
+      "quantity": 3.0,
+      "unit_price": 1833.01,
+      "amount": 5499.03
+    },
+    {
+      "line_no": 5,
+      "description": "Ergonomic mouse",
+      "quantity": 2.0,
+      "unit_price": 28.16,
+      "amount": 56.32
+    },
+    {
+      "line_no": 6,
+      "description": "Data migration",
+      "quantity": 10.0,
+      "unit_price": 4221.45,
+      "amount": 42214.5
+    },
+    {
+      "line_no": 7,
+      "description": "Network switch 24-port",
+      "quantity": 25.0,
+      "unit_price": 395.94,
+      "amount": 9898.5
+    },
+    {
+      "line_no": 8,
+      "description": "Software license (annual)",
+      "quantity": 10.0,
+      "unit_price": 1739.29,
+      "amount": 17392.9
+    }
+  ]
+}
