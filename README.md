@@ -54,3 +54,7 @@ Then drop a PDF into `<OCR_HOME>\incoming\invoice` and check the log in `<OCR_HO
 ```
 
 The development-only tools (`generate_invoices.py`, `prepare_sroie.py`, `make_anomalies.py`, `load_runs.py`, `build_golden.py`) are included for completeness. The server doesn't need them.
+
+## License
+
+Code: MIT (see LICENSE). The receipt scans in golden/receipt come from the ICDAR 2019 SROIE dataset and remain under that dataset's own terms of use; the MIT license covers the code and the synthetic invoices.
